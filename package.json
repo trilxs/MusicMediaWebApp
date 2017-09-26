@@ -4,7 +4,8 @@
   "description": "Music Media Web App",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "prettier": "^1.7.0"
   },
   "devDependencies": {},
   "scripts": {
