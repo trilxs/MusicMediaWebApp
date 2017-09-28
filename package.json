@@ -4,9 +4,7 @@
   "description": "Music Media Web App",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {
-    "nodemon": "^1.12.1"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
