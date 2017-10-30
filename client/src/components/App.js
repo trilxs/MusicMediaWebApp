@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Router, Route } from 'react-router-dom';
 import { connect } from 'react-redux';
 import * as actions from '../actions';
+import './App.css';
 import { Switch } from 'react-router';
 import history from '../utils/History';
 import '../styles/global.css';
