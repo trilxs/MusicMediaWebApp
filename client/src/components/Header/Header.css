@@ -17,12 +17,12 @@ nav {
         color: black;
     }
 
-    /* On hover, change the border bottom of links */
+    /* On hover, change the border bottom of links 
     nav ul li a:hover {
         border-bottom: 2px solid orange;
     }
 
-    /* All links in the header have this style */
+    /* All links in the header have this style 
     nav ul li a {
         padding: 0px 15px;
         text-decoration:none;
@@ -30,3 +30,4 @@ nav {
         -webkit-transition: all 0.3s ease-in-out;
         -moz-transition: all 0.3s ease-in-out;
     }
+    */
